@@ -3,4 +3,8 @@
 *.git*
 test*
 assets/*
+assets
 exclude.list
+Makefile
+*.xrnx
+*.md
