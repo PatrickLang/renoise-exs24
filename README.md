@@ -25,6 +25,22 @@ This tool can currently map the following properties for zones and samples:
 
 ## Packaging
 
+Linux, macOS
+
 ```
 $ make
 ```
+
+Windows
+
+```
+./make.ps1
+```
+
+
+## Modifying in place
+
+After installing the tool the first time, it's copied to your user profile.
+
+macOS & Linux: `TODO`
+Windows: `$ENV:APPDATA\Renoise\V3.4.2\Scripts\Tools`
