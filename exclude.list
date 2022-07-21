@@ -8,3 +8,4 @@ exclude.list
 Makefile
 *.xrnx
 *.md
+*.ps1
